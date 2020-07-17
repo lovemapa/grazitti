@@ -22,6 +22,6 @@ BODY Params
 
 * API Endpoint
 
-http://localhost:8081/makeTransaction
+http://localhost:8081/makeTransaction  (POST)
 
 
